@@ -4,6 +4,7 @@ export enum BinarySensorTypes {
     COLD = 'cold',
     CONNECTIVITY = 'connectivity',
     DOOR = 'door',
+    DOORBELL = 'doorbell',
     GARAGE_DOOR = 'garage_door',
     GAS = 'gas',
     HEAT = 'heat',
